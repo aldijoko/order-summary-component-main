@@ -39,8 +39,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/aldijoko/order-summary-component-main)
+- Live Site URL: [Desktop Design](https://aldijoko.github.io/order-summary-component-main/)
 
 ## My process
 
